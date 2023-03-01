@@ -5,14 +5,15 @@
     <meta name="viewport" 
           content="width=device-width, initial-scale=1.0">
     <link id = "estilo" rel="stylesheet" href="css/light.css">
-    <link rel="icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="icon" type="image/x-icon" href="https://resizer.glanacion.com/resizer/G5xlv5dql2mlejdRNLZ_hx9EirA=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UIBDEQR46VHLXEJI7T3QBF5K4Y.jpg">
 </head>
   
 <body>
     <div class="todo">
         <div class="izquierdo">
             <div class="f_perfil">
-                <img src="img/profiletpde.jpeg"
+                <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/5EFZIYDEIRFPXE3JBSLVY7ZJZM.jpg"
+                height="300px" width="500px"
                 alt="Foto de perfil."
                 >
             </div>
